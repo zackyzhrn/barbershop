@@ -107,7 +107,6 @@ INNER JOIN tbl_account ON tbl_account.id_account = tbl_booking.id_account ORDER 
                      <td>'.$fieldphone.'</td>
                      <td>'.$fieldwaktu.'</td>
                   </tr> ';
-                  // © Darinathan.blogspot.co.id
         }
  
 /*freeresultset*/
