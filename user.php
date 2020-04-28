@@ -93,7 +93,6 @@
                      <td>'.$fieldalamat.'</td>
                      <td>'.$fieldlevel.'</td>
                   </tr> ';
-                  // © Darinathan.blogspot.co.id
         }
  
 /*freeresultset*/
